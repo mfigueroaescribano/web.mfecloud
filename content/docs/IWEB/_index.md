@@ -2,7 +2,7 @@
 weight: 999
 title: "IWEB"
 description: "Implantación de Aplicaciones Web"
-icon: "article"
+icon: "language"
 date: "2023-10-05T10:41:01+02:00"
 lastmod: "2023-10-05T10:41:01+02:00"
 draft: true
