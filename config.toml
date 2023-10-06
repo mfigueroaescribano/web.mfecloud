@@ -1,4 +1,4 @@
-baseURL = 'https://web.mfecloud.es/'
+baseURL = 'https://web.mfecloud.es'
 languageCode = 'es-es'
 title = 'webMfe'
 
